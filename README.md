@@ -7,7 +7,7 @@ Link proyecto deployado
 [Netlify-Chat Bot](https://benevolent-nougat-dec160.netlify.app/).
 
 Link video
-[Deployado-DanielaEstupinan]()
+[Deployado-DanielaEstupinan](https://youtu.be/0i2AwDSVXEI)
 
 ### Repositories
 - [Client-Frontend](https://github.com/Daniela-Estupinan/chat-bot-client).
